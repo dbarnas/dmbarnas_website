@@ -9,7 +9,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Danielle M. Barnas",
+    "title": "Welcome!",
     "section": "",
     "text": "Previous work has focused on marine ecological shifts in response to climate change and restoration techniques of coral reef ecosystems. After receiving my BA in Marine Science from the University of San Diego in 2015, I spent three years in the Florida Keys working with local environmental organizations (i.e. Coral Restoration Foundation, Mote Marine Laboratory, and Florida Fish and Wildlife Conservation Commission) to monitor and restore threatened or damaged reefs, as well as study effects of climate change on those ecosystems. I began working at CSUN in 2018 as a Research Technician in Dr. Nyssa Silbiger’s lab before being accepted into her lab in 2021 as a graduate student.\nAs a technician and graduate student, I have worked primarily in R to develop protocols and training materials for lab equipment and procedures. I have created scripts and an R packages for cleaning, processing, and analyzing data from in situ environmental parameter loggers and other lab and field data collections, all still used by current lab members. I have also worked in R Shiny to simplify processing and visualizing data from multiple Onset HOBO loggers (Conductivity-Temperature, pH, and Water Level). I am currently enrolled in a professional data analytics certification program, where I am gaining experience in SQL and Tableau.\n\n## Contact\nGithub: (dbarnas)[https://github.com/dbarnas]\nEmail: danielle.barnas@csun.edu\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   }

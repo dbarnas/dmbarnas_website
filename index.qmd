@@ -1,5 +1,5 @@
 ---
-title: "Danielle M. Barnas"
+title: "Welcome!"
 ---
 
 I am an early career field researcher and data analyst in my final year as an MS candidate in the Biology Department at CSU Northridge. Current research focuses on the impact of natural environmental gradients (i.e. submarine groundwater discharge, SGD) on coastal coral reef biodiversity and ecosystem functioning. I aim to assess the relationship of species and functional trait diversity along an SGD gradient of two coral reefs in Mo'orea, French Polynesia, as well as understand the physiological effects of SGD on multiple benthic taxa and assemblages of varying species and functional identities in high and low SGD influence.
