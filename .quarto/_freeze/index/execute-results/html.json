@@ -1,5 +1,5 @@
 {
-  "hash": "2beae2fa5565a4f9368473e86b4f1860",
+  "hash": "ef19d753f5450ca1edef62dc47ed417f",
   "result": {
     "markdown": "---\ntitle: \"dmbarnas_website\"\n---\n\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
     "supporting": [],
