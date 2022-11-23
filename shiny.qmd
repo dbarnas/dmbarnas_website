@@ -9,14 +9,14 @@ title: "R Shiny Apps"
 
 #### R Shiny app that processes raw csv files (exported from HOBOware or HOBOmobile phone app) and returns downloadable csv and time-series figures  
 
-Applicable Onset HOBO loggers:
-    - Conductivity-Temperature (U24-002-C)
-    - Water Level (U20-001-02)
-    - pH (MX2501)
+Applicable Onset HOBO loggers:  
+    - Conductivity-Temperature (U24-002-C)  
+    - Water Level (U20-001-02)  
+    - pH (MX2501)  
 
-How to use this app:
-1. Select a logger type and raw csv to import
-2. Input calibration information: date, time, values
-3. Input launch and retrieval information: date, time
+How to use this app:  
+1. Select a logger type and raw csv to import  
+2. Input calibration information: date, time, values  
+3. Input launch and retrieval information: date, time  
 
 Tables with calibrated data and figures showing the time series between launch and retrieval dates will autopopulate. A CSV file of the calibrated and cut data can be downloaded using the bottom button.
