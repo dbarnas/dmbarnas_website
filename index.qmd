@@ -1,7 +1,9 @@
 ---
 about:
-  template: trestles
+  template: jolla
   image: images/Profile_image.jpg
+  image-shape: round
+  image-width: 10cm
   links:
     - href: https://github.com/dbarnas
       text: GitHub
@@ -9,7 +11,7 @@ about:
     - href: https://twitter.com/Dmbarnas
       text: Twitter
       icon: twitter
-    - href: https://github.com/dbarnas/dbarnas.github.io/blob/main/files/Barnas_CV.pdf
+    - href: https://github.com/dbarnas/dmbarnas_website/blob/main/files/Barnas_CV.pdf
       text: CV
       icon: archive-fill
     - href: https://www.linkedin.com/in/daniellebarnas
@@ -29,10 +31,10 @@ Previous work has focused on marine ecological shifts in response to climate cha
 As a technician and graduate student, I have worked primarily in R to develop protocols and training materials for lab equipment and procedures. I have created scripts and an R packages for cleaning, processing, and analyzing data from *in situ* environmental parameter loggers and other lab and field data collections, all still used by current lab members. I have also worked in R Shiny to simplify processing and visualizing data from multiple Onset HOBO loggers (Conductivity-Temperature, pH, and Water Level). I am currently enrolled in a professional data analytics certification program, where I am gaining experience in SQL and Tableau.
 
 
+
 \
 
-
-![Moorea coral reef](images/Moorea_reef.jpg)
+<img src="images/Moorea_reef.jpg" width="297"/> <img src="images/Gump_outreach.jpg" width="300"/> <img src="images/Cabral_swing_2.jpg" width="250"/>
 
 \
 
