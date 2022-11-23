@@ -5,17 +5,32 @@ project:
 website:
   title: "Danielle M. Barnas"
   navbar:
+    background: "#05445e"
     left:
       - href: index.qmd
         text: Home
-      - text: About Me
-        href: about.qmd
+      - text: Data Analytics Portfolio
+        menu: 
+          - packages.qmd
+          - shiny.qmd
+          - thesis_code.qmd
+          - lab_code.qmd
       - text: Research
         href: research.qmd
+    right:
+      - icon: github
+        href: https://github.com/dbarnas
+      - text: CV
+        href: https://github.com/dbarnas/dmbarnas_website/blob/main/files/Barnas_CV.pdf
+      - icon: twitter
+        href: https://twitter.com/dmbarnas
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: barnas_light.scss
+      dark: barnas_dark.scss
+    mainfont: Open Sans
     css: styles.css
     toc: true
 

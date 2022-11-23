@@ -7,5 +7,17 @@
   },
   "research.qmd": {
     "research.html": "ace84148"
+  },
+  "lab_code.qmd": {
+    "lab_code.html": "0424bc3e"
+  },
+  "packages.qmd": {
+    "packages.html": "f0894032"
+  },
+  "shiny.qmd": {
+    "shiny.html": "f09f3f67"
+  },
+  "thesis_code.qmd": {
+    "thesis_code.html": "2160048a"
   }
 }
