@@ -3,4 +3,19 @@ title: "MS Thesis Chapters"
 editor: visual
 ---
 
-## This site is still in progress. Please check back again later!
+## MS Biology ongoing thesis projects at California State University, Northridge
+
+#### Advisor: Dr. Nyssa J. Silbiger
+
+### Natural Environmental Gradients Alter Community Composition and Functional Diversity on Coral Reefs  
+
+Barnas, D.M.\*, Zeff, M., Silbiger, N.J. _(In Progress)_
+
+GitHub Repository can be found [HERE](https://github.com/dbarnas/Community_Functional_Diversity)
+
+### Functional Diversity of Coral Reef Communities Drives Changes in Ecosystem Functioning  
+
+Barnas, D.M.\*, Zeff, M., Silbiger, N.J. _(In Progress)_
+
+GitHub Repository can be found [HERE](https://github.com/dbarnas/BEF_FunctionalDiv)
+

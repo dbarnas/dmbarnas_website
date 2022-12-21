@@ -141,7 +141,7 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#this-site-is-still-in-progress.-please-check-back-again-later" id="toc-this-site-is-still-in-progress.-please-check-back-again-later" class="nav-link active" data-scroll-target="#this-site-is-still-in-progress.-please-check-back-again-later">This site is still in progress. Please check back again later!</a></li>
+  <li><a href="#mooreasgd" id="toc-mooreasgd" class="nav-link active" data-scroll-target="#mooreasgd"><em>mooreasgd</em></a></li>
   </ul>
 </nav>
     </div>
@@ -164,8 +164,44 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="this-site-is-still-in-progress.-please-check-back-again-later" class="level2">
-<h2 class="anchored" data-anchor-id="this-site-is-still-in-progress.-please-check-back-again-later">This site is still in progress. Please check back again later!</h2>
+<section id="mooreasgd" class="level3">
+<h3 class="anchored" data-anchor-id="mooreasgd"><em>mooreasgd</em></h3>
+<p>R package to clean, organize, and analyze data from <em>Onset HOBO</em> <em>in situ</em> data loggers. Functions have been created for:<br>
+- HOBO U24-002-C Conductivity-Temperature<br>
+- HOBO MX2501 pH<br>
+- HOBO U20 Water Level</p>
+<p><em>In-development repository can be found <a href="https://github.com/dbarnas/mooreasgd">HERE</a></em></p>
+<p><strong>Available functions:</strong></p>
+<ul>
+<li>CT_cleanup
+<ul>
+<li>Import, clean up, and export multiple raw conductivity-temperature (CT) data files from the HOBO CT Logger.<br>
+</li>
+</ul></li>
+<li>CT_one_cal
+<ul>
+<li>Calibration with a single set of reference values.<br>
+</li>
+<li>Calculate temperature-compensated Specific Conductance and one-point calibration for CT logger data. This function reads in a dataframe containing electrical conductivity logs from a conductivity-temperature logger and calculates specific conductance from <em>in situ</em> electrical conductivity and temperature readings.<br>
+</li>
+</ul></li>
+<li>CT_two_cal
+<ul>
+<li>Calibration with two sets of reference values.<br>
+</li>
+<li>Calculate temperature-compensated Specific Conductance from a two-point calibration (single high reference and single low reference) for CT logger data. This function reads in a dataframe containing electrical conductivity logs from a conductivity-temperature logger and calculates specific conductance from <em>in situ</em> electrical conductivity and temperature readings.<br>
+</li>
+</ul></li>
+<li>WL_cleanup
+<ul>
+<li>Import, clean up, and export multiple raw water level (depth) data files from the HOBO Water Level Logger.<br>
+</li>
+</ul></li>
+<li>pH_cleanup
+<ul>
+<li>Import, clean up, and export multiple raw pH data files from the HOBO pH Logger.</li>
+</ul></li>
+</ul>
 
 
 </section>

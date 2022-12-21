@@ -2,4 +2,27 @@
 title: "R Packages"
 ---
 
-## This site is still in progress. Please check back again later!
+### _mooreasgd_ 
+
+R package to clean, organize, and analyze data from *Onset HOBO* _in situ_ data loggers. Functions have been created for:  
+- HOBO U24-002-C Conductivity-Temperature  
+- HOBO MX2501 pH  
+- HOBO U20 Water Level  
+
+_In-development repository can be found [HERE](https://github.com/dbarnas/mooreasgd)_
+
+**Available functions:**  
+
+- CT_cleanup  
+    - Import, clean up, and export multiple raw conductivity-temperature (CT) data files from the HOBO CT Logger.  
+- CT_one_cal  
+    - Calibration with a single set of reference values.  
+    - Calculate temperature-compensated Specific Conductance and one-point calibration for CT logger data. This function reads in a dataframe containing electrical conductivity logs from a conductivity-temperature logger and calculates specific conductance from _in situ_ electrical conductivity and temperature readings.  
+- CT_two_cal  
+    - Calibration with two sets of reference values.  
+    - Calculate temperature-compensated Specific Conductance from a two-point calibration (single high reference and single low reference) for CT logger data. This function reads in a dataframe containing electrical conductivity logs from a conductivity-temperature logger and calculates specific conductance from _in situ_ electrical conductivity and temperature readings.  
+- WL_cleanup  
+    - Import, clean up, and export multiple raw water level (depth) data files from the HOBO Water Level Logger.  
+- pH_cleanup  
+    - Import, clean up, and export multiple raw pH data files from the HOBO pH Logger.
+

@@ -14,7 +14,6 @@ website:
           - packages.qmd
           - shiny.qmd
           - thesis_code.qmd
-          - lab_code.qmd
       - text: Research
         href: research.qmd
     right:

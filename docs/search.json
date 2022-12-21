@@ -12,5 +12,40 @@
     "title": "R Shiny Apps",
     "section": "",
     "text": "(created 5/01/2022)\n\n\nApplicable Onset HOBO loggers:\n- Conductivity-Temperature (U24-002-C)\n- Water Level (U20-001-02)\n- pH (MX2501)\nHow to use this app:\n1. Select a logger type and raw csv to import\n2. Input calibration information: date, time, values\n3. Input launch and retrieval information: date, time\nTables with calibrated data and figures showing the time series between launch and retrieval dates will autopopulate. A CSV file of the calibrated and cut data can be downloaded using the bottom button."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research Interests",
+    "section": "",
+    "text": "GitHub Repository can be found HERE\n\n\n\nGitHub Repository can be found HERE"
+  },
+  {
+    "objectID": "packages.html",
+    "href": "packages.html",
+    "title": "R Packages",
+    "section": "",
+    "text": "R package to clean, organize, and analyze data from Onset HOBO in situ data loggers. Functions have been created for:\n- HOBO U24-002-C Conductivity-Temperature\n- HOBO MX2501 pH\n- HOBO U20 Water Level\nIn-development repository can be found HERE\nAvailable functions:\n\nCT_cleanup\n\nImport, clean up, and export multiple raw conductivity-temperature (CT) data files from the HOBO CT Logger.\n\n\nCT_one_cal\n\nCalibration with a single set of reference values.\n\nCalculate temperature-compensated Specific Conductance and one-point calibration for CT logger data. This function reads in a dataframe containing electrical conductivity logs from a conductivity-temperature logger and calculates specific conductance from in situ electrical conductivity and temperature readings.\n\n\nCT_two_cal\n\nCalibration with two sets of reference values.\n\nCalculate temperature-compensated Specific Conductance from a two-point calibration (single high reference and single low reference) for CT logger data. This function reads in a dataframe containing electrical conductivity logs from a conductivity-temperature logger and calculates specific conductance from in situ electrical conductivity and temperature readings.\n\n\nWL_cleanup\n\nImport, clean up, and export multiple raw water level (depth) data files from the HOBO Water Level Logger.\n\n\npH_cleanup\n\nImport, clean up, and export multiple raw pH data files from the HOBO pH Logger."
+  },
+  {
+    "objectID": "research.html#additonal-projects-assisted-as-a-research-technician-at-csun",
+    "href": "research.html#additonal-projects-assisted-as-a-research-technician-at-csun",
+    "title": "Research Interests",
+    "section": "Additonal projects (Assisted as a research technician at CSUN)",
+    "text": "Additonal projects (Assisted as a research technician at CSUN)\n\nBecker, D.M. and Silbiger, N.J. 2020. Nutrient and sediment loading affect multiple facets of functionality in a tropical branching coral. Journal of Experimental Biology 223.\n\n\nFields, J.B. and Silbiger, N.J. 2022. Foundation species loss alters multiple ecosystem functions within temperate tidepool communities. Marine Science Progress Series 683.\n\n\nKerlin, J.R., Barnas, D.M.*, Silbiger, N.J. In Progress (anticiipated 2023). Effects of submarine groundwater discharge and coral-coral interactions on common coral species, Porites rus.\n\n\nChiachi, A., Barnas, D.M.*, Silbiger, N.J. In Progress (anticiipated 2023). Determining the effects of marine heatwaves on red abalone, Haliotis rufescens, across multiple size classes."
+  },
+  {
+    "objectID": "research.html#other-reserach-interests",
+    "href": "research.html#other-reserach-interests",
+    "title": "Research Interests",
+    "section": "Other reserach interests",
+    "text": "Other reserach interests\n\nCoral reef conservation and restoration\n\nTemporal changes of marine ecosystems due to disturbance events or climage change\n\nFunctional traits as key drivers of BEF relationships\n\nClimate change impacts to organismal and community physiology\n\nImpacts of natural processes (i.e. submarine groundwater discharge) on organismal and community physiology"
+  },
+  {
+    "objectID": "thesis_code.html",
+    "href": "thesis_code.html",
+    "title": "MS Thesis Chapters",
+    "section": "",
+    "text": "Barnas, D.M.*, Zeff, M., Silbiger, N.J. (In Progress)\nGitHub Repository can be found HERE\n\n\n\nBarnas, D.M.*, Zeff, M., Silbiger, N.J. (In Progress)\nGitHub Repository can be found HERE"
   }
 ]
